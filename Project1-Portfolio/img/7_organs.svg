@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="675px" height="675px" viewBox="0 0 675 675" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>7_organs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="7_organs" sketch:type="MSArtboardGroup" stroke="#020202" stroke-width="2">
+            <g sketch:type="MSLayerGroup" transform="translate(102.500000, 135.000000)" id="Shape">
+                <path d="M53.295,202.563 L183.377,0.087 L313.455,202.563 L53.295,202.563 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M119.179,202.477 L249.26,0 L379.34,202.477 L119.179,202.477 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M379.34,202.482 L249.257,404.96 L119.179,202.482 L379.34,202.482 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M313.455,202.57 L183.375,405.047 L53.295,202.57 L313.455,202.57 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M0,202.561 L121.09,14.081 L242.176,202.561 L0,202.561 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M242.176,202.567 L121.088,391.047 L0,202.567 L242.176,202.567 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M160.721,202.563 L290.803,0.087 L420.881,202.563 L160.721,202.563 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M227.33,202.479 L348.418,14 L469.506,202.479 L227.33,202.479 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M469.506,202.485 L348.416,390.966 L227.33,202.485 L469.506,202.485 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M420.881,202.57 L290.801,405.047 L160.721,202.57 L420.881,202.57 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M89.82,202.563 L219.901,0.087 L349.979,202.563 L89.82,202.563 Z" sketch:type="MSShapeGroup"></path>
+                <path d="M349.979,202.57 L219.899,405.047 L89.82,202.57 L349.979,202.57 Z" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
